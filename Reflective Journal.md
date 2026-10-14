@@ -15,3 +15,8 @@ As I stated above, the model doesn’t have to get every prediction right, even 
 Accuracy is one of the metrics to measure the performance of a classification model, and it returns the percent of correctly classified instances. The accuracy I got from my model of 74.83% only returns whether each instance was classified correctly or not. A confusion matrix, precision, and recall would be good things to explore further to get more information about how my model did for each of the passengers.
 
 The lessons learned in this lab also taught me another important lesson. That is, you must run the notebook cells in the correct order to get the expected results. In the initial attempt, there were some syntax errors in the data preparation code. Also, when I tried to create the DataFrame from the given data, it did not get created for some unknown reason. Once these errors were corrected and the correct notebook cells were executed in order, the model was working fine. I also came to realize that machine learning involves several steps to achieve a goal. In this lab, the steps involved in achieving the goal were data preparation, training the model, and evaluating the model.
+
+
+Michelle's Entry:
+
+I learned the difference between regression and classification and how they are used to make predictions. I can relate regression to estimating how much I might spend when shopping, while classification is more about predicting which category something belongs to. I also learned how to check how well a model makes predictions using different methods. This helped me understand how machine learning can be used in everyday life.
